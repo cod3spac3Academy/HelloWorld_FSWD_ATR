@@ -22,3 +22,4 @@ Bienvenido a la nave, ¡despegamos!
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+| 1 | Alb3G | Alberto  | Guzmán | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript.git) |
