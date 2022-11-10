@@ -22,3 +22,4 @@ Bienvenido a la nave, ¡despegamos!
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+| 19 |      Chemusky| José Miguel | Romero| [Chemusky](https://github.com/Chemusky)|
