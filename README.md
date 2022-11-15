@@ -22,4 +22,6 @@ Bienvenido a la nave, ¡despegamos!
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
-| 19 |      Chemusky| José Miguel | Romero| [Chemusky](https://github.com/Chemusky)|
+| 1 | Alb3G | Alberto  | Guzmán | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript.git) |
+| 2 | kevlaroscuro | Juan Carlos | Martos | [kevlaroscuro](https://github.com//kevlaroscuro)
+| 3 | Chemusky | José Miguel | Romero| [Chemusky](https://github.com/Chemusky)|
