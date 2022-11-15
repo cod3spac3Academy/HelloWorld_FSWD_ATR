@@ -23,3 +23,4 @@ Bienvenido a la nave, ¡despegamos!
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | Alb3G | Alberto  | Guzmán | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript.git) |
+| 2 | kevlaroscuro | Juan Carlos | Martos | [kevlaroscuro](https://github.com//kevlaroscuro)
