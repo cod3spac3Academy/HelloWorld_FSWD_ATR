@@ -25,3 +25,4 @@ Bienvenido a la nave, ¡despegamos!
 | 1 | Alb3G | Alberto  | Guzmán | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript.git) |
 | 2 | kevlaroscuro | Juan Carlos | Martos | [kevlaroscuro](https://github.com//kevlaroscuro)
 | 3 | Chemusky | José Miguel | Romero| [Chemusky](https://github.com/Chemusky)|
+| 4 |jorge282 | Jorge| Jaime | [jorge282](https://github.com/jorge282)|
