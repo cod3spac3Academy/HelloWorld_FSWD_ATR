@@ -27,3 +27,4 @@ Bienvenido a la nave, ¡despegamos!
 | 3 | Chemusky | José Miguel | Romero| [Chemusky](https://github.com/Chemusky)|
 | 4 |jorge282 | Jorge| Jaime | [jorge282](https://github.com/jorge282)|
 | 5 |AlejandroBHH | Alejandro| Benítez | [AlejandroBHH](https://github.com/AlejandroBHH)|
+| 6 |Jonnylashop | Juan| Latienda | [Rolemaster](https://github.com/Jonnylashop)|
