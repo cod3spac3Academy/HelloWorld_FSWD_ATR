@@ -29,4 +29,5 @@ Bienvenido a la nave, ¡despegamos!
 | 5 |AlejandroBHH | Alejandro| Benítez | [AlejandroBHH](https://github.com/AlejandroBHH)|
 | 6 |Jonnylashop | Juan| Latienda | [Rolemaster](https://github.com/Jonnylashop)|
 | 7 | tonruy | Antonio | Ruiz | [Tonruy](https://github.com/Tonruy/)
-| 8 |prsgit | Pedro| Rueda | [prs](https://github.com/prsgit)|
+| 8 | ManuelDenisDev | Manuel | Denis | [ManuelDenisDev](https://github.com/ManuelDenisDev)|
+| 9 |prsgit | Pedro| Rueda | [prs](https://github.com/prsgit)|
