@@ -31,4 +31,5 @@ Bienvenido a la nave, ¡despegamos!
 | 7 | tonruy | Antonio | Ruiz | [Tonruy](https://github.com/Tonruy/)
 | 8 | ManuelDenisDev | Manuel | Denis | [ManuelDenisDev](https://github.com/ManuelDenisDev)|
 | 9 |prsgit | Pedro| Rueda | [prs](https://github.com/prsgit)|
-| 10 | huntfer | Angel| Blanco | [huntfer](https://github.com/huntfer)|
+| 10 | joseptarrestoneu | Josep| Tarrés | [joseptarrestoneu](https://github.com/joseptarrestoneu/joseptarrestoneu)|
+| 11 | huntfer | Angel| Blanco | [huntfer](https://github.com/huntfer)|
